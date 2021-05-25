@@ -1,5 +1,5 @@
 # PersonalProjects
-These are some deep learning projects I have done.
+These are some deep learning projects I have done while taking a udacity-deep-learning-course. 
 
 All of these projects are written in python.
 
